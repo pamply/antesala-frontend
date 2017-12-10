@@ -8,15 +8,6 @@
 	top: -117px;
 }
 
-span[class="header-contact"] {
-  font-size: 12px !important;
-  color: #959595;
-  float: right;
-  right: 10%;
-  position: relative;
-  margin: 15px;
-}
-
 .navbar-collapse.collapse {
     display: block !important;
     height: 100px !important;
