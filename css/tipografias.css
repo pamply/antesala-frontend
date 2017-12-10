@@ -1,0 +1,29 @@
+@font-face {
+	font-family: 'Mosk';
+	src: url('fonts/MoskNormal400.eot');
+	src: url('fonts/MoskNormal400.eot?#iefix') format('embedded-opentype'),
+		url('fonts/MoskNormal400.woff') format('woff'),
+		url('fonts/MoskNormal400.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'AvenirBook';
+	src: url('fonts/AvenirBook.eot');
+	src: url('fonts/AvenirBook.eot?#iefix') format('embedded-opentype'),
+		url('fonts/AvenirBook.woff') format('woff'),
+		url('fonts/AvenirBook.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'AvenirHeavy';
+	src: url('fonts/AvenirHeavyFontDownload.eot');
+	src: url('fonts/AvenirHeavyFontDownload.eot?#iefix') format('embedded-opentype'),
+		url('fonts/AvenirHeavyFontDownload.woff') format('woff'),
+		url('fonts/AvenirHeavyFontDownload.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
